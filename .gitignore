@@ -1,0 +1,8 @@
+node_modules
+.env
+/prisma/dev.db
+/prisma/*.sqlite
+/prisma/dev.db-journal
+
+.vscode/
+.DS_Store
