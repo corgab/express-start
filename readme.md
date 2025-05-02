@@ -44,8 +44,8 @@ prisma/
 1. **Clona il progetto**
 
 ```bash
-git clone https://github.com/tuo-utente/user-api-express.git
-cd user-api-express
+git clone https://github.com/corgab/express-start.git
+cd express-start
 ```
 
 2. **Installa le dipendenze**
